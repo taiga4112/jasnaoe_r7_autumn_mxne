@@ -4,4 +4,5 @@
 
 ## 環境設定
 
-執筆のための環境設定は，[使用した非公式:pink_heart:テンプレートレポジトリ](https://github.com/taiga4112/jasnaoe_template_typst)のREADME.mdを参照してください．
+執筆のための環境設定は，[使用した非公式 :pink_heart: テンプレートレポジトリ](https://github.com/taiga4112/jasnaoe_template_typst)のREADME.mdを参照してください．
+
