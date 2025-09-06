@@ -90,6 +90,10 @@
   show figure.caption: it => {
     align(box(align(it, left)), center)
   }
+
+  // Convert full-width punctuation marks to the specified format.
+  show "。": "．"
+  show "、": "，"
   
   // Display the paper's contents.
   body
